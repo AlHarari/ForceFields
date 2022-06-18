@@ -14,9 +14,6 @@
 
 // Note: I'm stuck in Java because I'm an idiot...
 
-// WE ARE SO CLOSE
-// Check why vectors[p.findVectorInRegion()] leads to an error
-
 int WIDTH = 1920, HEIGHT = 1080;
 int spacing = 10;
 int numOfCols = floor(WIDTH / spacing);
