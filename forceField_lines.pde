@@ -6,7 +6,7 @@
  * Credits to:
  Daniel Shiffman for his video on force fields, entitled 'Coding Challenge #24: Perlin Noise Flow Field' (YouTube).
  The code in this program is based on his, and its idea is pretty much similar to his program's idea. Also, the 
- examples provided by the Processing Foundation (with credit also going to whomever wrote them) were a helpful
+ examples provided by the Processing Foundation (with credit also going to whoever wrote them) were a helpful
  guideline on how writing Processing-related things work in Java.
  
  One idea that I think is cool is the ability to let the user "pour" the particles. 
